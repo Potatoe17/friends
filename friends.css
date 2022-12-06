@@ -1,3 +1,12 @@
+@media screen and (max-width:480px){
+  .firstDiv,
+.secondDiv,
+.thirdDiv{
+  display:inline-block;
+  margin: 0 auto;
+  }
+}
+
 * {
   background-color: rgb(224, 224, 224);
 }
